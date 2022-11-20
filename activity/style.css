@@ -1,0 +1,68 @@
+#top{   
+    background-color:white;
+    
+}
+
+div{
+    margin-left:89%;
+    display:inline-block;
+    font-family:'Courier New', Courier, monospace;
+}
+
+body {
+    background-color:skyblue;
+}
+h1,h2,h3{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+   border-radius:100px;
+}
+li{
+    list-style: none;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+#register{
+   text-align: center;
+   font-family:'Courier New', Courier, monospace
+ 
+}
+form{
+    background-color: white;
+    display:inline-block;
+    border:5px solid black;
+    width: 20%;
+    padding: 10px;
+  
+}
+label,button{
+    display:block;
+    margin:10px;
+    font-family:'Courier New', Courier, monospace
+
+}
+button{
+    background-color: purple;
+    color: white;
+    padding: 16px 32px;
+    margin: 10px;
+    border-radius:100px;
+   margin:auto;
+   margin-top: 10px;
+   font-family:'Courier New', Courier, monospace
+
+}
+input{
+width:90%;
+padding:5px;
+
+
+}

@@ -12,9 +12,13 @@ div{
 body {
     background-color:skyblue;
 }
-h1,h2,h3{
+h1,h2{
     text-align: center;
     font-family:'Courier New', Courier, monospace
+}
+h3{
+    letter-spacing: 5px;
+    text-align: center;
 }
 
 img{
